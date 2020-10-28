@@ -9,4 +9,10 @@ first commit for login text file
 
 
 second commit for branch merging
+<<<<<<< HEAD
+>>>>>>> login
+=======
+
+
+third commit for login branch
 >>>>>>> login

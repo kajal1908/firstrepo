@@ -15,4 +15,9 @@ committing for login branch
 editing for login branch
 
 editing for login branch again
+<<<<<<< HEAD
+>>>>>>> login
+=======
+
+hey, new edit for login branch
 >>>>>>> login

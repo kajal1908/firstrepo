@@ -2,4 +2,11 @@ hello there
 
 first commit for login text file
 
+<<<<<<< HEAD
 editing for master branch
+=======
+first commit for login text file
+
+
+second commit for branch merging
+>>>>>>> login
